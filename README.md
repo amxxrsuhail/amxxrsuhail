@@ -19,7 +19,7 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 -📖&nbsp;&nbsp;Can learn new technologies without a second thought if the problem to solve asks for it.<br>
 -💬&nbsp;&nbsp;Ask me about Python, HTML, CSS, JavaScript.<br/>
 -🔭&nbsp;&nbsp;I’m currently working on my pet projects.<br/><br/>
-<h3>🎉 Fun-Fact:</h3> I ❤️ to update knowledge on tech, literally pass my time watching tech reviews by MKBHD, MrWhoseTheBoss, etc. Also, watch a lot of Sci-Fi and future depicting Movies🎬<br><br><br>
+<h3>🎉 Fun-Fact :</h3> I ❤️ to update knowledge on tech, literally pass my time watching tech reviews by MKBHD, MrWhoseTheBoss, etc. Also, watch a lot of Sci-Fi and future depicting Movies🎬<br><br><br>
 ___
 <br>
 <div align="center">
