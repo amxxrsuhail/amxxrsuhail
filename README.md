@@ -34,7 +34,7 @@ ___
 <code><img height="50" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code><br>
 
 
-<h2> 📖  What I am currently learning </h2>
+<h2><img src="clipboard.svg" width="40px"> What I am currently learning </h2>
 
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
 &nbsp;
@@ -43,4 +43,6 @@ ___
 &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 &nbsp;
+<img src="https://www.flaticon.com/free-icons/react" title="react icons" alt="React logo" title="react" height="25" />
+
 </div>
