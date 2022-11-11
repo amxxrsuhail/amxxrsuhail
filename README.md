@@ -34,7 +34,7 @@ ___
 <code><img height="50" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code><br>
 
 
-<h2><img src="pulse.svg" width="40px"> What I am currently learning </h2>
+<h2><img src="pulse.svg" width="40px"> What I am currently learning </h2><br>
 
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
 &nbsp;
