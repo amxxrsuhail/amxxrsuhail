@@ -11,7 +11,7 @@
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.One thing that makes me standout from the crowd is that, I was a civi engineering graduate and right now i self taught some of the most in demand skills for web   development and build projects. And i believe that is one skill that every programmer should have and not just sticking on to one thing and learning more and more new technologies as per needs.<br/>
- 🌐 &nbsp; Finding something i don't know drives me restless till i reasearch and get it solved.<br/>
- 📖 &nbsp; Can learn new technologies without a second thought if the problem to solve asks for it.<br/>
- 💬  &nbsp;Ask me about Python, HTML, CSS, JavaScript.<br/>
- 🔭&nbsp;  I’m currently working on my pet projects.<br/>
+ 🌐&nbsp;Finding something i don't know drives me restless till i reasearch and get it solved.<br/>
+ 📖&nbsp;Can learn new technologies without a second thought if the problem to solve asks for it.<br/>
+ 💬&nbsp;Ask me about Python, HTML, CSS, JavaScript.<br/>
+ 🔭&nbsp;I’m currently working on my pet projects.<br/>
