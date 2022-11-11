@@ -1,13 +1,13 @@
 <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 242px; height: 242px;"><style>
-     .line-clipboard1 {animation:line-clipboard1-tick 2s infinite; stroke-dasharray: 110; stroke-dashoffset: 110;}
-     @keyframes line-clipboard1-tick {
-         20%{stroke-dashoffset: 110;}
-         60%{stroke-dashoffset: 0;}
-         100%{stroke-dashoffset: 0;}
+     .line-pulse1 {animation:line-pulse1-pulse 2s infinite; stroke-dasharray: 210;}
+     @keyframes line-pulse1-pulse {
+         0%{stroke-dashoffset: 220;}
+         50%{stroke-dashoffset: 0;}
+         100%{stroke-dashoffset: -210;}
      }
      @media (prefers-reduced-motion: reduce) {
-         .line-clipboard1 {
+         .line-pulse1 {
              animation: none;
          }
      }
-    </style><path class="stroke1 fill1" d="M20 23C20 19.6863 22.6863 17 26 17H43C43 17 43 10 50 10C57 10 57 17 57 17H74C77.3137 17 80 19.6863 80 23V85C80 88.3137 77.3137 91 74 91H26C22.6863 91 20 88.3137 20 85V23Z" fill="rgba(17,39,84,1)" stroke="rgba(9,71,185,1)" stroke-width="2px" style="animation-duration: 2s;"></path><path class="stroke1" d="M37.5 17V30H64V17" stroke="rgba(9,71,185,1)" stroke-width="2px" style="animation-duration: 2s;"></path><path class="line-clipboard1 stroke2" d="M32 60L42 70L67 45" stroke="rgba(218,55,103,0.94)" stroke-width="2px" style="animation-duration: 2s;"></path></svg>
+    </style><path class="line-pulse1 stroke1" d="M7 50H23.7762C24.2081 50 24.5912 49.7227 24.7262 49.3125L36.0687 14.8313C36.3683 13.9203 37.6543 13.9127 37.9648 14.82L62.0352 85.18C62.3457 86.0874 63.6317 86.0797 63.9313 85.1687L75.2738 50.6875C75.4088 50.2773 75.7919 50 76.2238 50H92.5" stroke="rgba(106,181,181,1)" stroke-width="2px" style="animation-duration: 2s;"></path></svg>
