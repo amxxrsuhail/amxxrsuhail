@@ -48,7 +48,7 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
 </div>
 
-<h2><img src="pulse.svg" width="40px"> What I am currently learning </h2><br>
+<h2><img src="pulse.svg" width="40px">Feel free to connect me at : </h2><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/k-ameer-suhail-aba0b8216/"><img alt="linkedin" title="linkedin" height="48" width="48" src="connect-icons/linkedin.png"></a>
