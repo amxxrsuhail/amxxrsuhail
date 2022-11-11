@@ -8,16 +8,18 @@
 		<img src="good-times.svg" width="400px">
 	<br>
 </div>
+<div>
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+<div/>	
 
 ## ⚡️ A Few Quick Facts
 
--🌐&nbsp;&nbsp;Finding something i don't know drives me restless till i reasearch and get it solved.<br/>
--📖&nbsp;&nbsp;Can learn new technologies without a second thought if the problem to solve asks for it.<br/>
+-🌐&nbsp;&nbsp;Finding something i don't know drives me restless till i reasearch and get it solved.<br>
+-📖&nbsp;&nbsp;Can learn new technologies without a second thought if the problem to solve asks for it.<br>
 -💬&nbsp;&nbsp;Ask me about Python, HTML, CSS, JavaScript.<br/>
 -🔭&nbsp;&nbsp;I’m currently working on my pet projects.<br/><br/>
-🎉 <h3>Fun-Fact:</h3> I ❤️ to update knowledge on tech, literally pass my time watching tech reviews by MKBHD, MrWhoseTheBoss, etc. Also, watch a lot of Sci-Fi and future depicting Movies🎬<br/>
+🎉 <h3>Fun-Fact:</h3> I ❤️ to update knowledge on tech, literally pass my time watching tech reviews by MKBHD, MrWhoseTheBoss, etc. Also, watch a lot of Sci-Fi and future depicting Movies🎬<br>
 
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
