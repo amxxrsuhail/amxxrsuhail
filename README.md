@@ -1,15 +1,17 @@
 <div align="center">
-<h2><img src="Hi.gif" width="30">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞.</h2>
-<h1> &nbsp;&nbsp;&nbsp;I'm Ameer Suhail </h1>
-</div>
-
-<div align="center">
 	<br>
 		<img src="good-times.svg" width="400px">
 	<br>
 </div>
 
-### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<div align="center">
+<h2><img src="Hi.gif" width="30">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞.</h2>
+<h1> &nbsp;&nbsp;&nbsp;I'm Ameer Suhail </h1>
+</div>
+
+
+
+## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.One thing that makes me standout from the crowd is that, I was a civi engineering graduate and right now i self taught some of the most in demand skills for web   development and build projects. And i believe that is one skill that every programmer should have and not just sticking on to one thing and learning more and more new technologies as per needs.<br/><br/>	
 
@@ -20,7 +22,7 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 -💬&nbsp;&nbsp;Ask me about Python, HTML, CSS, JavaScript.<br/>
 -🔭&nbsp;&nbsp;I’m currently working on my pet projects.<br/><br/>
 <h3>🎉  Fun-Fact :</h3> I ❤️ to update knowledge on tech, literally pass my time watching tech reviews by MKBHD, MrWhoseTheBoss, etc. Also, watch a lot of Sci-Fi and future depicting Movies🎬<br><br><br>
-___
+
 <br>
 <div align="center">
 <h2><img src="rocket.svg" width="40px"> My DevSetup</h2><br>
