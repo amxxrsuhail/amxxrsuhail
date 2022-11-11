@@ -43,6 +43,4 @@ ___
 &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 &nbsp;
-<img src="https://www.flaticon.com/free-icons/react" title="react icons" alt="React logo" title="react" height="25" />
-
 </div>
