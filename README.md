@@ -8,6 +8,8 @@
 		<img src="good-times.svg" width="400px">
 	<br>
 </div>
+
+<br>
 ### A little about me...  
 I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.One thing that makes me standout from the crowd is that, I was a civi engineering graduate and right now i self taught some of the most in demand skills for web   development and build projects. And i believe that is one skill that every programmer should have and not just sticking on to one thing and learning more and more new technologies as per needs.<br/><br/>	
 
