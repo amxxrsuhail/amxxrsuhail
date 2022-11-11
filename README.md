@@ -25,7 +25,7 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 
 <br>
 <div align="center">
-<h2><img src="rocket.svg" width="40px"> My DevSetup</h2><br>
+<h2><img src="assets/rocket.svg" width="40px"> My DevSetup</h2><br>
 <img height="30" src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img height="30" src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img height="30" src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img height="30" src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img height="30" src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
 <h2><img src="assets/tools.svg" width="40px"> Some Tools and Tech I use</h2><br>
@@ -48,7 +48,7 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
 </div>
 
-<h2 align="center"><img src="assets/connect.svg" width="40px">Feel free to connect me at : </h2><br>
+<h2 align="center"><img src="assets/connectme.svg" width="40px">Feel free to connect me at : </h2><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/k-ameer-suhail-aba0b8216/"><img alt="linkedin" title="linkedin" height="40" width="40" src="connect-icons/linkedin.png"></a>&nbsp;&nbsp;
