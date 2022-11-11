@@ -8,7 +8,7 @@
 		<img src="good-times.svg" width="400px">
 	<br>
 </div>
-<body align="center">
+<div align="center">
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.One thing that makes me standout from the crowd is that, I was a civi engineering graduate and right now i self taught some of the most in demand skills for web   development and build projects. And i believe that is one skill that every programmer should have and not just sticking on to one thing and learning more and more new technologies as per needs.<br/><br/>
 
@@ -39,4 +39,4 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code> 
-</body>
+</div>
