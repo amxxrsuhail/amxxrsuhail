@@ -55,9 +55,9 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
   <a href="https://www.instagram.com/amxxrsuhail/?next=%2F"><img alt="LinkedIn" title="instagram" height="40" width="40" src="connect-icons/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto: kameer41099@gmail.com"><img alt="gmail" title="gmail" height="40" width="40" src="connect-icons/gmail.png"></a>
 </p>
-<br><br>
+<br>
 
 <div align="center">
-<h2>Checkout out my Repos here</h2>
+<h3>**Checkout out my Repos here**</h3>
 <img src="assets/arrow.svg" width="30px"><img src="assets/arrow.svg" width="30px"><img src="assets/arrow.svg" width="30px">
 </div>
