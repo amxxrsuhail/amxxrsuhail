@@ -58,6 +58,6 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 <br><br>
 
 <div align="center">
-<h3>checkout out my repos here</h3><br>
-<img src="assets/arrow.svg" width="20px"><img src="assets/arrow.svg" width="20px"><img src="assets/arrow.svg" width="20px">
+<h2>Checkout out my Repos here</h2>
+<img src="assets/arrow.svg" width="30px"><img src="assets/arrow.svg" width="30px"><img src="assets/arrow.svg" width="30px">
 </div>
