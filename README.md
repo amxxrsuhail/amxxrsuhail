@@ -56,7 +56,7 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
   <a href="mailto: kameer41099@gmail.com"><img alt="gmail" title="gmail" height="40" width="40" src="connect-icons/gmail.png"></a>
 </p>
 
-<div>
-### checkout out my repos here 
-<img src="assets/arrow.svg" width="40px"><img src="assets/arrow.svg" width="40px"><img src="assets/arrow.svg" width="40px">
+<div align="center">
+<h3>checkout out my repos here</h3><br>
+<img src="assets/arrow.svg"><img src="assets/arrow.svg"><img src="assets/arrow.svg">
 </div>
