@@ -59,5 +59,5 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 
 <div align="center">
 <h3><b>Checkout out my Repos here<b></h3>
-<img src="assets/arrow.svg" width="30px"><img src="assets/arrow.svg" width="30px"><img src="assets/arrow.svg" width="30px">
+<img src="assets/arrow1.svg" width="30px"><img src="assets/arrow1.svg" width="30px"><img src="assets/arrow1.svg" width="30px">
 </div>
