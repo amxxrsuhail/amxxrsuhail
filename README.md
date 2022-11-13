@@ -1,4 +1,6 @@
-<div align="center">
+<picture> <img align="right" src="assets/cover.gif" width = 250px></picture>
+
+<div align="left">
 <h2><img src="Hi.gif" width="30">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞.</h2>
 <h1> &nbsp;&nbsp;&nbsp;I'm Ameer Suhail </h1>
 </div>
@@ -8,8 +10,6 @@
 ## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.One thing that makes me standout from the crowd is that, I was a civil engineering graduate and right now i self-taught some of the most sought-after skills for web development and build projects. I believe, that is one skill that every programmer should have and not just sticking on to one thing and learning more and more new technologies as per needs.<br/><br/>	
-
-<picture> <img align="right" src="assets/cover.gif" width = 250px></picture>
 
 ## ⚡️ A Few Quick Facts
 
