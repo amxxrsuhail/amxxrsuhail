@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-		<img src="assets/githeader.svg" width="400px">
+		<img src="assets/githeader.svg" >
 	<br>
 </div>
 
