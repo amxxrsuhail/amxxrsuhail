@@ -1,4 +1,4 @@
-<br><div align="center">
+<br><br><div align="center">
 	<br>
 		<img src="assets/githeader.svg" width="600px">
 	<br>
