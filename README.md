@@ -1,8 +1,8 @@
-<div align="center">
+<br><div align="center">
 	<br>
 		<img src="assets/githeader.svg" width="600px">
 	<br>
-</div><br>
+</div><br><br>
 
 <div align="center">
 <h2><img src="Hi.gif" width="30">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞.</h2>
