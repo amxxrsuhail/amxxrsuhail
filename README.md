@@ -29,7 +29,7 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 
 <!-- <img height="50" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"> -->
 <h2><img src="assets/tools.svg" width="40px"> Some Tools and Tech I use</h2><br>
-<code><a href="https://www.flaticon.com/free-icons/python" title="python icons"></a></code>&nbsp;
+<a href="https://www.flaticon.com/free-icons/python" title="python icons"></a>&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
 <code><img height="50" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>&nbsp;
