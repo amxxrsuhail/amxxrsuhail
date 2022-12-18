@@ -11,14 +11,14 @@
 
 ## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.One thing that makes me standout from the crowd is that, I was a civil engineering graduate and right now i self-taught some of the most sought-after skills for web development and build projects. I believe, that is one skill that every programmer should have and not just sticking on to one thing and learning more and more new technologies as per needs.<br/><br/>
+I'm a **Full Stack Developer, 💻** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. One thing that makes me standout from the crowd is that, I was a civil engineering graduate and right now i have self-taught some of the most sought-after skills for web development and build projects on my own. I believe, that is one skill that every programmer should have and not just sticking on to one thing and learning more and more new technologies as per needs.<br/><br/>
 
 ## ⚡️ A Few Quick Facts
 
 -🌐&nbsp;&nbsp;Finding something i don't know drives me restless till i research and get it solved.<br>
 -📖&nbsp;&nbsp;Can learn new technologies without a second thought if the problem to solve asks for it.<br>
--💬&nbsp;&nbsp;Ask me about Python, HTML, CSS, JavaScript.<br/>
--🔭&nbsp;&nbsp;I’m currently working on my pet projects.<br/><br/>
+-💬&nbsp;&nbsp;Ask me anything related to **MERN** stack.<br/>
+-🔭&nbsp;&nbsp;I’m currently working on my pet projects and actively looking for jobs.<br/><br/>
 
 <h3>🎉  Fun-Fact :</h3> I ❤️ to update knowledge on tech, literally pass my time watching tech reviews by MKBHD, MrWhoseTheBoss, etc. Also, watch a lot of Sci-Fi and future depicting Movies🎬<br><br><br>
 
@@ -41,7 +41,7 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 
 <h2><img src="assets/pulse.svg" width="40px"> What I am currently learning </h2><br>
 
--🔭&nbsp;&nbsp;Currently learning about <b>Data Structures and Algorithms</b> to strengthen my core knowledge.<br/><br/>
+Currently learning about **Data Structures and Algorithms** to strengthen my core knowledge.<br/><br/>
 
 </div>
 
