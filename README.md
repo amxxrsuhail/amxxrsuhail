@@ -41,14 +41,8 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 
 <h2><img src="assets/pulse.svg" width="40px"> What I am currently learning </h2><br>
 
-<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25"/>
-&nbsp;<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25"/>
-&nbsp;
-<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+-🔭&nbsp;&nbsp;Currently learning about <b>Data Structures and Algorithms</b> to strengthen my core knowledge.<br/><br/>
+
 </div>
 
 <h2 align="center"><img src="assets/connectme.svg" width="40px"> Feel free to connect</h2><br>
