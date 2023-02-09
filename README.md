@@ -39,7 +39,7 @@ I'm a **Full Stack Developer, 💻** passionate about learning and working with 
 <code><img height="50" src="assets/skills/react.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/firebase.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/angular.png"></code>&nbsp;
-<code><img height="50" src="assets/skills/tailwind.png"></code>&nbsp;
+<code><img height="50" width="50" src="assets/skills/tailwind.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/aws.png"></code><br>
 
 <h2><img src="assets/pulse.svg" width="40px"> What I am currently learning </h2><br>
