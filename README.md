@@ -26,7 +26,7 @@ I'm a **Full Stack Developer, 💻** passionate about learning and working with 
 <div align="center">
 <h2><img src="assets/rocket.svg" width="40px"> My DevSetup</h2><br>
 <img height="30" src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img height="30" src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img height="30" src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img height="30" src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img height="30" src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
-<!-- 
+
 <h2><img src="assets/tools.svg" width="40px"> Some Tools and Tech I use</h2><br>
 <code><img height="50" src="assets/skills/python.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/html.png"></code>&nbsp;
@@ -40,7 +40,7 @@ I'm a **Full Stack Developer, 💻** passionate about learning and working with 
 <code><img height="50" src="assets/skills/firebase.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/angular.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/tailwind.png"></code>&nbsp;
-<code><img height="50" src="assets/skills/aws.png"></code><br> -->
+<code><img height="50" src="assets/skills/aws.png"></code><br>
 
 <h2><img src="assets/pulse.svg" width="40px"> What I am currently learning </h2><br>
 
