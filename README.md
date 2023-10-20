@@ -23,7 +23,7 @@ I'm a **Full Stack Developer, 💻** passionate about learning and working with 
 -🌐&nbsp;&nbsp;Finding something i don't know drives me restless till I research and get it solved.<br>
 -📖&nbsp;&nbsp;Can learn new technologies without a second thought if the problem to solve asks for it.<br>
 -💬&nbsp;&nbsp;Ask me anything related to **MERN** stack.<br/>
--🔭&nbsp;&nbsp;I’m on a path to master Data Structures and Algorithms
+-🔭&nbsp;&nbsp;I’m on a path to master Data Structures and Algorithms.<br/>
 -🧑🏻‍💻&nbsp;&nbsp;Currently, working as a web developer in a product-based company in the airport domain.<br/><br/>
 
 <h3>🎉  Fun-Fact :</h3> I ❤️ to update knowledge on tech, literally pass my time watching tech reviews by MKBHD, MrWhoseTheBoss, etc. Also, watch a lot of Sci-Fi and future depicting Movies🎬<br><br><br>
