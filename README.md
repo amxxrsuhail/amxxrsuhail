@@ -9,8 +9,7 @@
 <h1> &nbsp;&nbsp;&nbsp;I'm Ameer Suhail </h1>
 </div>
 
-## A little about me... ![GIF](https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif)
-
+## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 I'm a **Full Stack Developer, 💻** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. One thing that makes me standout from the crowd is that, I was a civil engineering graduate and right now i have self-taught some of the most sought-after skills for web development and build projects on my own. I believe, that is one skill that every programmer should have and not just sticking on to one thing and learning more and more new technologies as per needs.<br/><br/>
 
@@ -29,18 +28,21 @@ I'm a **Full Stack Developer, 💻** passionate about learning and working with 
 <img height="30" src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img height="30" src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img height="30" src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img height="30" src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img height="30" src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
 
 <h2><img src="assets/tools.svg" width="40px"> Some Tools and Tech I use</h2><br>
-<code><img height="50" src="assets/skills/python.png"></code>&nbsp;
+<code><img height="60" src="assets/skills/java.png"></code>&nbsp;
+<code><img height="50" src="assets/skills/mysql.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/html.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/css.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/js.png"></code>&nbsp;
+<code><img height="50" src="assets/skills/typescript.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/bootstrap.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/node.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/express.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/mongodb.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/react.png"></code>&nbsp;
+<code><img height="50" src="assets/skills/redux.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/firebase.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/angular.png"></code>&nbsp;
-<code><img height="50" src="assets/skills/tailwind.png"></code>&nbsp;
+<code><img height="40" width="60" src="assets/skills/tailwind.png"></code>&nbsp;
 <code><img height="50" src="assets/skills/aws.png"></code><br>
 
 <h2><img src="assets/pulse.svg" width="40px"> What I am currently learning </h2><br>
