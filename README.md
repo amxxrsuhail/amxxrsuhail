@@ -11,7 +11,7 @@
 
 ## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm a **Full Stack Developer, 💻** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. One thing that makes me standout from the crowd is that, I was a civil engineering graduate and right now i have self-taught some of the most sought-after skills for web development and build projects on my own. I believe, that is one skill that every programmer should have and not just sticking on to one thing and learning more and more new technologies as per needs.<br/><br/>
+I'm a **Full Stack Developer, 💻** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. One thing that makes me standout from the crowd is that, I was a civil engineering graduate and right now I have self-taught some of the most sought-after skills for web development and build projects on my own. I believe, that is one skill that every programmer should have and not just sticking on to one thing and learning more and more new technologies as per needs.<br/><br/>
 <!-- <br> -->
 <!-- <div align="center"> -->
 <!-- <h2><img src="assets/rocket.svg" width="40px"> My DevSetup</h2><br> -->
